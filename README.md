@@ -2,7 +2,7 @@
 
 # 👋 Hi, I am
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=MD+MOHIDUL+ISLAM" alt="MD MOHIDUL ISLAM" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=MD+MOHIDUL+ISLAM;Frontend+Developer;Web+Developer;Creative+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 
 ### 💻 Frontend Developer | 🎓 Student | 🚀 Web Development Learner
 
