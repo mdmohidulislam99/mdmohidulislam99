@@ -25,7 +25,8 @@ I'm also learning modern web development through **Programming Hero**,
 where I'm improving my skills in frontend development, programming, UI/UX, and full-stack technologies.
 
 <br>
-<div align="left">
+
+
 🎓 **Education:** Government Graphic Arts Institute
 
 📚 **Semester:** 4th Semester
@@ -41,7 +42,8 @@ where I'm improving my skills in frontend development, programming, UI/UX, and f
 🐧 **OS:** Linux
 
 📍 **Location:** Bangladesh
-</div>
+
+
 </div>
 
 ---
