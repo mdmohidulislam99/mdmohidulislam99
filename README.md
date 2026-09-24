@@ -1,36 +1,213 @@
-<h1 align="center">Hi 👋, I'm MD MOHIDUL ISLAM</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+# 👋 Hi, I'm MD MOHIDUL ISLAM
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmohidulislam99&label=Profile%20views&color=0e75b6&style=flat" alt="mdmohidulislam99" /> </p>
+### 💻 Frontend Developer | Student | Open Source Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmohidulislam99" alt="mdmohidulislam99" /></a> </p>
+I'm a passionate **Frontend Developer from Bangladesh** 🇧🇩.
+I'm currently studying at **Government Graphic Arts Institute** and I'm in my **4th semester**.
 
-- 🔭 I’m currently working on **E-coramces**
+I'm also learning modern web development through **Programming Hero**, where I'm building my skills in frontend development, programming, and full-stack technologies.
 
-- 🌱 I’m currently learning **JavaScript**
+---
 
-- 👯 I’m looking to collaborate on **E-coramces**
+## 🚀 About Me
 
-- 🤝 I’m looking for help with **E-coramces**
+* 🎓 Currently studying at **Government Graphic Arts Institute**
+* 📚 4th Semester Student
+* 💻 Learning Web Development with **Programming Hero**
+* 🌱 Currently improving my skills in **React, TypeScript, Django & Full-Stack Development**
+* 🎨 Interested in **UI/UX Design and Graphic Design**
+* 🐧 Linux enthusiast
+* 📍 Bangladesh
 
-- 👨‍💻 All of my projects are available at [mdmohidulislam99](mdmohidulislam99)
+---
 
-- 💬 Ask me about **html, css, js**
+## 🛠️ Technologies & Tools
 
-- 📫 How to reach me **mohidul.data@gmail.com**
+### 👨‍💻 Programming Languages
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-mohidul-islam01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mohidul-islam01" height="30" width="40" /></a>
-<a href="https://fb.com/md.mohidul.hassan.riayd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.mohidul.hassan.riayd" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discordapp.com/users/1520086909274030112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1520086909274030112" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🎨 Frontend Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmohidulislam99&show_icons=true&locale=en&layout=compact" alt="mdmohidulislam99" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmohidulislam99&show_icons=true&locale=en" alt="mdmohidulislam99" /></p>
+### 🗄️ Database
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmohidulislam99&" alt="mdmohidulislam99" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ⚙️ Framework
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django" />
+</p>
+
+### 🎨 Design & Creative Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+</p>
+
+* Canva
+
+### 🔧 Other Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### 🌐 Project 1 — Your Project Name
+
+> A short description of your project.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+🔗 [Live Demo](YOUR_LIVE_LINK)
+📂 [Source Code](YOUR_GITHUB_REPO_LINK)
+
+---
+
+### ⚛️ Project 2 — Your Project Name
+
+> A short description of your project.
+
+**Tech Stack:** React • Tailwind CSS • JavaScript
+
+🔗 [Live Demo](YOUR_LIVE_LINK)
+📂 [Source Code](YOUR_GITHUB_REPO_LINK)
+
+---
+
+### 🐍 Project 3 — Your Project Name
+
+> A short description of your project.
+
+**Tech Stack:** Python • Django • MongoDB/MySQL
+
+🔗 [Live Demo](YOUR_LIVE_LINK)
+📂 [Source Code](YOUR_GITHUB_REPO_LINK)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🐍 My Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.facebook.com/md.mohidul.hassan.riayd">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/md-mohidul-islam01/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://discordapp.com/users/1520086909274030112">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 💡 Currently Learning
+
+```text
+Frontend Development
+├── JavaScript
+├── TypeScript
+├── React
+├── Tailwind CSS
+└── Modern UI/UX
+
+Backend Development
+├── Python
+├── Django
+├── MongoDB
+└── MySQL
+
+Tools
+├── Git & GitHub
+├── Linux
+├── Figma
+└── VS Code
+```
+
+---
+
+## 🎯 My Goal
+
+> "Learning every day, building every day, and becoming a better developer every day."
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
